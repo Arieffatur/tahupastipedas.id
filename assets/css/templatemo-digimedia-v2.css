@@ -1323,11 +1323,11 @@ Services Style
   width: 100%;
   padding: 30px 0px;
   background-color: #fff;
-  box-shadow: 0px 0px 15px rgba(255, 0, 0, 0.404);
+  
 }
 
 .services .naccs .menu div.active {
-  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.605);
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.694);
 }
 
 .services ul.nacc {
